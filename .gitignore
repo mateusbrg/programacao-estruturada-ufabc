@@ -1,0 +1,63 @@
+# Arquivos de compilação
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# Executáveis com nome comum
+main
+test
+debug
+release
+
+# Diretórios de build e logs
+/build/
+/bin/
+/lib/
+/logs/
+/output/
+/dist/
+/Debug/
+/Release/
+
+# Arquivos de logs e debug
+*.log
+*.stackdump
+*.dmp
+
+# Configurações de IDEs e editores
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# CLion
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Code::Blocks
+*.layout
+*.depend
+*.layout
+
+# Dev-C++
+*.dev
+
+# Arquivos de backup
+*~
+*.swp
+*.bak
+*.tmp
+*.old
+*.orig
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de ambiente
+.env
