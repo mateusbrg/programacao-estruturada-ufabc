@@ -19,9 +19,11 @@ Para compilar e executar os programas em C, você precisa de um compilador como 
    ``` 
 
 2. Execute o programa:
-  ```bash
-  ./ex1
-  ```
+    ```bash
+    ./ex1
+    ```
 
 ## Contribuições
 Este repositório é voltado para aprendizado, mas contribuições são bem-vindas! Se encontrar uma solução alternativa ou otimizada, sinta-se à vontade para abrir um pull request.
+
+Se te ajudou, deixe uma estrela! ⭐
