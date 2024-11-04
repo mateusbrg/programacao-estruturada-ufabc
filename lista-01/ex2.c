@@ -6,6 +6,8 @@
  *
  */
 
+#include <stdio.h>
+
 void print_prime_numbers_until(int number)
 {
   printf("Os números primos no intervalo [1, %d] são:\n", number);
