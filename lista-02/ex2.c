@@ -35,7 +35,7 @@ void descending_sort(int array[], int array_length)
 int main()
 {
   int number_sequence[] = {23, 87, 45, 16, 32, 78, 54, 91, 62, 10, 39, 83, 27, 58, 49}; // 1 <= n <= 100
-  int number_sequence_length = 9;
+  int number_sequence_length = 15;
 
   descending_sort(number_sequence, number_sequence_length);
 }
