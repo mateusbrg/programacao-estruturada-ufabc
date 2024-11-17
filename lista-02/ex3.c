@@ -1,5 +1,5 @@
 /**
- * @file ex2.c
+ * @file ex3.c
  * @author Mateus Braga - mateusbrg
  * @brief Escreva um programa que leia uma sequência de n números inteiros, 1 ≤ n ≤ 100,
  * e imprima esses números em ordem não decrescente.
