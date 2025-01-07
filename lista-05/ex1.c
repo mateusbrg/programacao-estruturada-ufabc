@@ -57,5 +57,7 @@ int main()
 
   printf("A média dos números digitados é %.2lf", result);
 
+  free(array);
+  
   return 0;
 }
